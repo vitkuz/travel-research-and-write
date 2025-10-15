@@ -1,0 +1,53 @@
+{
+  "place": "Batumi Boulevard",
+  "type": "attraction",
+  "description": "Batumi Boulevard is a magnificent 7-kilometer seaside promenade along the Black Sea coast, established in 1881. Known as the 'life and soul of Batumi,' this iconic boulevard features over 40,000 trees, 4 historic alleys, a bicycle path, and numerous monuments, sculptures, and attractions. It spans 135 hectares and has been recognized as a national monument of Georgian garden-park art since 1987. The boulevard combines historic French-style landscaping with modern Spanish architecture, creating a unique blend of old and new that attracts up to 2 million tourists annually.",
+  "highlights": [
+    "Ali and Nino Statue - 8-meter kinetic sculptural composition by Tamar Kvesitadze featuring translucent steel figures that slowly move towards each other, merge, and separate in a mesmerizing love story",
+    "Dancing Fountains - spectacular light, sound, and laser show running from 9 PM to 2 AM with choreographed water displays pulsing to music",
+    "Historic Colonnades - elegant white Greek-style columns built over 100 years ago that marked the entrance to the embankment",
+    "Summer Theater - remarkable wooden building constructed in 1948-1949 without using a single nail",
+    "Batumi Lighthouse - built in 1863, predating the boulevard itself, holds status as cultural heritage",
+    "Cafe Fantasy - unique mosaic art sculpture built in 1981 by artist Zurab Kapanadze, serving as both functional cafe and artistic landmark",
+    "Japanese Garden and Miracle Park - beautifully landscaped areas along the boulevard",
+    "Neptune Fountain - historic water feature adding to the boulevard's charm",
+    "Zoo Corner - hosts more than 140 inhabitants in the heart of the boulevard",
+    "LED-lit trees and illuminated facades creating a theatrical atmosphere after sunset"
+  ],
+  "tips": [
+    "Best time to visit is during spring when the promenade blooms with flowers, or early morning/evening for cooler weather and fewer crowds",
+    "Avoid July and August if you want to beat the tourist crowds",
+    "Visit the Dancing Fountains between 9 PM and 2 AM for the full light and sound show experience",
+    "Rent a bike to cover the full 7-kilometer length more comfortably - the boulevard has dedicated bicycle paths",
+    "Wear comfortable shoes if planning to walk the entire length",
+    "The boulevard is free to visit with no entry fees",
+    "Safe to visit at night as the area is well-lit and secure",
+    "Bring a camera for the stunning sea views and artistic installations",
+    "Explore both the 'old boulevard' (original 1884 section) and 'new boulevard' (2009 modern addition by Spanish architect Alberto Domingo Cabo)",
+    "Plan 2-3 hours minimum to fully appreciate the attractions along the boulevard"
+  ],
+  "vibe": "Vibrant, peaceful, and culturally rich - the boulevard offers a perfect blend of relaxation and entertainment. By day, it's a serene coastal escape with lush greenery, sea breezes, and family-friendly atmosphere. After sunset, it transforms into a theatrical spectacle with illuminated trees, dancing fountains, and lively cafes and beach bars. The promenade embodies Batumi's unique character as both a historic Black Sea resort and modern tourist destination, where 140-year-old French landscaping meets contemporary art installations. It's where locals and tourists alike come to stroll, bike, socialize, and experience the quintessential Batumi lifestyle against the backdrop of the Black Sea.",
+  "additional_information": {
+    "established": "1881",
+    "length": "7 kilometers",
+    "area": "135 hectares",
+    "trees_planted": "Over 40,000",
+    "annual_visitors": "Up to 2 million",
+    "recognition": [
+      "National monument of Georgian garden-park art since 1987",
+      "Most visited place in Adjara region",
+      "Winner of 'Magnolia 2022' award",
+      "Nominated for World Travel Awards alongside Eiffel Tower, Sagrada Familia, Colosseum, Buckingham Palace, and the Acropolis"
+    ],
+    "historical_designers": [
+      "Ressler and Reier - Prussian gardeners (1881-1884)",
+      "Michel D'Alfons - French nobleman and garden designer (1885-1889), known as 'Genius of Batumi sea coast'",
+      "Iason Gordeziani - Georgian gardener and decorator (1917-1933)",
+      "Alberto Domingo Cabo - Spanish architect (2009 modernization)"
+    ],
+    "location": "Along the Black Sea coast in Batumi, Adjara region, Georgia",
+    "cost": "Free entry",
+    "accessibility": "Bicycle paths, wide promenades suitable for strollers and wheelchairs",
+    "nearby_attractions": "Alphabet Tower, Batumi Archaeological Museum, Miracle Park, Batumi Beach"
+  }
+}
