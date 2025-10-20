@@ -1,0 +1,56 @@
+{
+  "place": "Skadarlija",
+  "destination": "Belgrade, Serbia",
+  "type": "Bohemian Quarter",
+  "description": "Skadarlija is a vintage street and urban neighborhood in Belgrade's Stari Grad (Old Town) municipality, known as the main bohemian quarter of Belgrade, similar to Montmartre in Paris. After Kalemegdan, it is the second-most visited tourist attraction in Belgrade.",
+  "history": {
+    "origins": "Skadarlija dates back to the 1830s and was initially inhabited by Gypsies.",
+    "1850s": "Started attracting artists and caterers and became a haven for the bohemian sector",
+    "1901": "Began to acquire its bohemian character particularly after the well-known Dardaneli inn was demolished and its guests, prominent writers and actors, moved to the Skadarlija inns or kafanas.",
+    "early_20th_century": "Well-known but mostly poor poets and writers became regular visitors",
+    "1967": "Protected by law as a spatial cultural-historical unit"
+  },
+  "notable_visitors": {
+    "artists_and_writers": [
+      "Đura Jakšić",
+      "Dobrica Milutinović",
+      "Žanka Stokić",
+      "Ilija Stanojević",
+      "Tin Ujević",
+      "Momo Kapor"
+    ]
+  },
+  "characteristics": {
+    "street": "Cobblestone (kaldrma) promenade paved in old-Belgrade style",
+    "atmosphere": "Authentic bohemian ambiance with vintage charm",
+    "comparison": "Often referred to as 'the Montmartre of Belgrade'",
+    "visitors": "Up to 20,000 people daily",
+    "cobblestone": "Only remaining cobblestone street in Belgrade in original old-city style"
+  },
+  "restaurants_and_dining": {
+    "cuisine": "Typical national cuisine, most notably roštilj (grilled meat) with pivo (beer)",
+    "iconic_restaurants": {
+      "Dva Jelena": "Traditional restaurant serving customers for over a century",
+      "Tri Šešira": "Three Hats, a Belgrade institution since 1864, best encapsulates the Bohemian magic of Skadarlija"
+    },
+    "experience": "Live traditional Serbian music, authentic atmosphere, local specialties"
+  },
+  "cultural_significance": {
+    "twinning": "Skadarlija and Parisian Montmartre twinned on 22 October 1977, celebrating their shared bohemian heritage",
+    "preservation": "Carefully preserved historic character with original cobblestones and architecture",
+    "attractions": "Cafés, restaurants, art exhibits, and authentic bohemian atmosphere"
+  },
+  "visitor_experience": {
+    "activities": "Dining at traditional restaurants, enjoying live music, art gallery visits, evening strolls",
+    "atmosphere": "Romantic, nostalgic, artistic",
+    "best_time": "Evening hours for authentic bohemian experience with live music"
+  },
+  "interesting_facts": [
+    "Second-most visited tourist attraction in Belgrade after Kalemegdan",
+    "Sister city to Montmartre in Paris since 1977",
+    "Only street in Belgrade retaining original cobblestone paving",
+    "Home to restaurants that have been operating for over 150 years",
+    "Protected cultural monument since 1967",
+    "Attracts up to 20,000 visitors daily"
+  ]
+}

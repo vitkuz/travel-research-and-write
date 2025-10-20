@@ -22,9 +22,15 @@ User or other agent must provide:
   "description": "string",
   "highlights": ["string"],
   "tips": ["string"],
-  "vibe": "string"
+  "vibe": "string",
+  "expectations": ["string"],
+  "reality": ["string"],
+  "unique_facts": ["string"],
+  "surprises": ["string"]
 }
 ```
+
+IMPORTANT! Save in .json format
 
 IMPORTANT! Save to: `[output-folder]/research-[destination]-[place].json`
 
