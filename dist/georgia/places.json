@@ -1,0 +1,126 @@
+{
+  "destination": "Batumi",
+  "researched_at": "2025-11-04T00:00:00Z",
+  "places": [
+    {
+      "rank": 1,
+      "name": "Batumi Boulevard",
+      "category": "Seaside Promenade",
+      "description": "A stunning 7-kilometer seaside park stretching along the Black Sea coast, dotted with palm trees, art installations, monuments, dancing fountains, and entertainment venues.",
+      "coordinates": {
+        "lat": 41.6423,
+        "lng": 41.6339
+      },
+      "rating": 4.7,
+      "why_visit": "One of the most important attractions in Batumi, offering a perfect blend of nature, art, and seaside recreation with spectacular Black Sea views."
+    },
+    {
+      "rank": 2,
+      "name": "Ali and Nino Statue",
+      "category": "Monument",
+      "description": "An 8-meter-high moving kinetic sculpture by Tamara Kvesitadze depicting two lovers who move toward each other, merge briefly, and separate every 10 minutes.",
+      "coordinates": {
+        "lat": 41.6559,
+        "lng": 41.6436
+      },
+      "rating": 4.8,
+      "why_visit": "A mesmerizing symbol of love and tolerance that becomes even more spectacular at night when illuminated, representing the tragic romance between a Muslim boy and Georgian princess."
+    },
+    {
+      "rank": 3,
+      "name": "Argo Cable Car",
+      "category": "Cable Car",
+      "description": "Batumi's premier attraction spanning 2,586 meters, ascending 256 meters to Anuria Mountain with panoramic views of the city and Black Sea, leading to a cultural entertainment complex.",
+      "coordinates": {
+        "lat": 41.6477,
+        "lng": 41.6347
+      },
+      "rating": 4.6,
+      "why_visit": "Offers the most spectacular aerial views of Batumi and the Black Sea during a 15-minute journey, with authentic Georgian dining and entertainment at the summit."
+    },
+    {
+      "rank": 4,
+      "name": "Batumi Botanical Garden",
+      "category": "Botanical Garden",
+      "description": "Founded in 1912, this second-largest botanical garden in the world spans over 100 hectares on a hillside overlooking the Black Sea, featuring thousands of plant species from nine phyto-geographical zones.",
+      "coordinates": {
+        "lat": 41.7042,
+        "lng": 41.7153
+      },
+      "rating": 4.5,
+      "why_visit": "A botanical paradise showcasing flora from around the world including East Asia, the Himalayas, and Mediterranean regions, with breathtaking coastal views."
+    },
+    {
+      "rank": 5,
+      "name": "Alphabet Tower",
+      "category": "Observation Tower",
+      "description": "A unique 130-meter tower featuring 33 Georgian alphabet letters in a DNA-inspired double helix design, topped with a rotating panoramic restaurant.",
+      "coordinates": {
+        "lat": 41.6456,
+        "lng": 41.6421
+      },
+      "rating": 4.4,
+      "why_visit": "Combines architectural innovation celebrating Georgian heritage with spectacular 360-degree views of Batumi and fine dining at the revolving Atmosphere Restaurant."
+    },
+    {
+      "rank": 6,
+      "name": "Gonio Fortress",
+      "category": "Historical Site",
+      "description": "An ancient Roman fortification dating back to the 1st century AD, located 12 km south of Batumi near the Turkish border, featuring well-preserved walls and rich historical significance.",
+      "coordinates": {
+        "lat": 41.5732,
+        "lng": 41.5736
+      },
+      "rating": 4.3,
+      "why_visit": "Step back two millennia into Roman history at one of Georgia's most important archaeological sites with remarkably preserved fortification walls."
+    },
+    {
+      "rank": 7,
+      "name": "Batumi Piazza",
+      "category": "Public Square",
+      "description": "A charming 5,700-square-meter Italian-style plaza featuring Venetian architecture, stained glass windows, cafes, restaurants, and Europe's largest figurative marble mosaic (106 sq m) at its center.",
+      "coordinates": {
+        "lat": 41.6454,
+        "lng": 41.6380
+      },
+      "rating": 4.5,
+      "why_visit": "Experience romantic Italian ambiance in the heart of Batumi with live music evenings, charming cafes, and stunning architectural details."
+    },
+    {
+      "rank": 8,
+      "name": "Europe Square",
+      "category": "Public Square",
+      "description": "The historic heart of Batumi's Old Town featuring the iconic Medea Monument at its center, surrounded by beautiful architecture and serving as a cultural gathering point.",
+      "coordinates": {
+        "lat": 41.6448,
+        "lng": 41.6375
+      },
+      "rating": 4.4,
+      "why_visit": "A must-visit historic square blending architectural beauty with cultural significance, showcasing singing fountains in the evening and hosting performances by world celebrities."
+    },
+    {
+      "rank": 9,
+      "name": "Batumi Dolphinarium",
+      "category": "Entertainment",
+      "description": "A popular family attraction offering entertaining and educational dolphin shows in 6 May Park, with opportunities to watch performances and even swim with dolphins.",
+      "coordinates": {
+        "lat": 41.6489,
+        "lng": 41.6396
+      },
+      "rating": 4.6,
+      "why_visit": "Ranked #2 attraction in Batumi on TripAdvisor, offering unforgettable 45-minute dolphin shows that delight visitors of all ages."
+    },
+    {
+      "rank": 10,
+      "name": "Holy Mother Virgin Nativity Cathedral",
+      "category": "Religious Site",
+      "description": "A magnificent neo-Gothic Orthodox cathedral featuring three domes, stunning stained glass windows, and intricate 19th-century architecture.",
+      "coordinates": {
+        "lat": 41.6472,
+        "lng": 41.6381
+      },
+      "rating": 4.4,
+      "why_visit": "One of Batumi's most beautiful religious buildings, combining neo-Gothic architectural elegance with Orthodox spiritual significance and artistic craftsmanship."
+    }
+  ]
+}

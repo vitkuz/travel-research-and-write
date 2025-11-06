@@ -1,0 +1,126 @@
+{
+  "destination": "Da Nang, Vietnam",
+  "researched_at": "2025-11-06T00:00:00Z",
+  "places": [
+    {
+      "rank": 1,
+      "name": "Golden Bridge (Cau Vang)",
+      "category": "Architectural Wonder",
+      "description": "Iconic pedestrian bridge featuring two massive stone hands appearing to cradle a golden walkway at 1,414 meters elevation, offering breathtaking panoramic views of Ba Na Hills.",
+      "coordinates": {
+        "lat": 15.9989,
+        "lng": 107.9953
+      },
+      "rating": 4.7,
+      "why_visit": "One of the world's most photographed bridges, recognized globally by CNN and featured in major international media for its stunning architectural design and mountain vistas."
+    },
+    {
+      "rank": 2,
+      "name": "Marble Mountains (Ngu Hanh Son)",
+      "category": "Natural & Cultural Site",
+      "description": "Five limestone and marble peaks named after the five elements of Eastern philosophy, featuring intricate cave systems, Buddhist shrines dating back to the 17th century, and stunning coastal views.",
+      "coordinates": {
+        "lat": 15.9755,
+        "lng": 108.2609
+      },
+      "rating": 4.5,
+      "why_visit": "A sacred spiritual destination combining natural wonder with cultural heritage, offering exploration of mystical caves, ancient pagodas, and panoramic views of Non Nuoc Beach."
+    },
+    {
+      "rank": 3,
+      "name": "Lady Buddha Statue at Linh Ung Pagoda",
+      "category": "Religious Monument",
+      "description": "Vietnam's tallest Buddha statue at 67 meters, featuring 17 floors with 27 Buddha statues for worship, overlooking the East Sea from Son Tra Peninsula.",
+      "coordinates": {
+        "lat": 16.1209,
+        "lng": 108.2790
+      },
+      "rating": 4.6,
+      "why_visit": "An awe-inspiring symbol of peace and serenity offering spiritual significance and spectacular coastal views from one of Da Nang's most revered religious sites."
+    },
+    {
+      "rank": 4,
+      "name": "My Khe Beach",
+      "category": "Beach",
+      "description": "Nine-kilometer stretch of pristine white sand and clear turquoise waters, named by Forbes as one of the most attractive beaches on the planet.",
+      "coordinates": {
+        "lat": 16.0421,
+        "lng": 108.2489
+      },
+      "rating": 4.6,
+      "why_visit": "Perfect for swimming, surfing, and relaxation with its gentle waves, powdery sand, and stunning mountain backdrop, all within easy reach of the city center."
+    },
+    {
+      "rank": 5,
+      "name": "Dragon Bridge (Cau Rong)",
+      "category": "Modern Architecture",
+      "description": "The world's largest dragon-shaped steel bridge spanning 666 meters across the Han River, featuring 15,000 LED lights and spectacular fire-breathing and water-spraying performances.",
+      "coordinates": {
+        "lat": 16.0606,
+        "lng": 108.2272
+      },
+      "rating": 4.5,
+      "why_visit": "Witness an unforgettable spectacle every weekend at 9 PM when the dragon breathes fire and sprays water, symbolizing Da Nang's thriving modern development."
+    },
+    {
+      "rank": 6,
+      "name": "Ba Na Hills",
+      "category": "Entertainment Complex",
+      "description": "French-style hilltop resort at 1,500 meters elevation featuring world-record cable cars, amusement parks, gardens, and the famous Golden Bridge.",
+      "coordinates": {
+        "lat": 15.9953,
+        "lng": 107.9963
+      },
+      "rating": 4.4,
+      "why_visit": "Experience a unique blend of European architecture and Vietnamese mountain scenery via one of CNN's top 10 most impressive cable car systems, offering year-round cool climate."
+    },
+    {
+      "rank": 7,
+      "name": "Son Tra Peninsula (Monkey Mountain)",
+      "category": "Nature Reserve",
+      "description": "60-square-kilometer pristine peninsula featuring lush tropical forests, rare red-shanked douc langurs, secluded beaches, and the towering Lady Buddha statue.",
+      "coordinates": {
+        "lat": 16.1209,
+        "lng": 108.2790
+      },
+      "rating": 4.5,
+      "why_visit": "Discover untouched natural beauty and spot endangered wildlife while enjoying panoramic coastal views just 10 kilometers from downtown Da Nang."
+    },
+    {
+      "rank": 8,
+      "name": "Museum of Cham Sculpture",
+      "category": "Cultural Museum",
+      "description": "World's largest collection of Cham sculpture with over 300 artifacts reflecting the ancient Champa civilization's lifestyle, culture, and intricate Hindu god carvings.",
+      "coordinates": {
+        "lat": 16.0599,
+        "lng": 108.2226
+      },
+      "rating": 4.3,
+      "why_visit": "Essential for understanding Central Vietnam's rich history through masterpieces of Cham art spanning from the 7th to 15th centuries."
+    },
+    {
+      "rank": 9,
+      "name": "Han Market (Cho Han)",
+      "category": "Local Market",
+      "description": "Da Nang's central market bustling with hundreds of stalls offering local produce, seafood, textiles, souvenirs, and authentic Vietnamese street food.",
+      "coordinates": {
+        "lat": 16.0701,
+        "lng": 108.2238
+      },
+      "rating": 4.2,
+      "why_visit": "Immerse yourself in local culture and sample authentic Mi Quang noodles, fresh seafood, and shop for Vietnamese specialties in the heart of the city."
+    },
+    {
+      "rank": 10,
+      "name": "Non Nuoc Beach",
+      "category": "Beach",
+      "description": "Five-kilometer pristine coastline at the foot of Marble Mountains, featuring white powdery sand, turquoise water, and coconut palms with fewer crowds than My Khe.",
+      "coordinates": {
+        "lat": 16.0017,
+        "lng": 108.2652
+      },
+      "rating": 4.5,
+      "why_visit": "Experience tranquil beach paradise with stunning mountain backdrop, perfect for those seeking peaceful relaxation away from the busier tourist areas."
+    }
+  ]
+}
