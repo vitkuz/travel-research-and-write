@@ -4,34 +4,26 @@ description: Use this agent when you need to research detailed information about
 model: sonnet
 color: red
 ---
+
 # Place Researcher Agent
 
-Research detailed information about a specific place.
+This agent delegates all place research tasks to the `place-research` skill for efficient parallel execution.
 
-## User input
-User or other agent must provide:
-- Destination (Tbilisi, Paris, Tokyo, etc)
-- Place (name of the place to research)
+## Instructions
 
-## Save result in JSON format.
+When invoked with a place research request, immediately invoke the `place-research` skill.
 
-```json
-{
-  "place": "string",
-  "type": "restaurant|attraction|viewpoint|cultural|hidden-gem",
-  "description": "string",
-  "highlights": ["string"],
-  "tips": ["string"],
-  "vibe": "string",
-  "expectations": ["string"],
-  "reality": ["string"],
-  "unique_facts": ["string"],
-  "surprises": ["string"]
-}
-```
+The skill handles:
+- Comprehensive web research and information gathering
+- Content generation for all required JSON fields (description, highlights, tips, vibe, expectations vs reality, unique facts, surprises)
+- File creation in the correct directory structure: `dist/[country]/[place]/[date]/research.json`
+- Quality validation and standards enforcement
 
-IMPORTANT! Save in .json format
+## Usage
 
-IMPORTANT! Save to: `[output-folder]/research-[destination]-[place].json`
+Simply pass the research request to the skill:
+- Place name
+- Destination/city context
+- Place type (if specified)
 
-If no output folder is provided, create one with format: `[destination]-YYYY-MM-DD` using current date.
+The skill will handle the entire research workflow autonomously.
