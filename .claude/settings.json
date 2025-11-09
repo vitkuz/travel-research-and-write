@@ -7,7 +7,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -c \"(New-Object Media.SoundPlayer 'C:\\Users\\Vitali_Kuzmenka\\.claude\\sounds\\done.wav').PlaySync()\""
+            "command": "powershell -ExecutionPolicy Bypass -File \"C:\\Users\\Vitali_Kuzmenka\\.claude\\scripts\\play-done-sound.ps1\""
           }
         ]
       }
@@ -18,14 +18,11 @@
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -c \"(New-Object Media.SoundPlayer 'C:\\Users\\Vitali_Kuzmenka\\.claude\\sounds\\notification.wav').PlaySync()\""
+            "command": "powershell -ExecutionPolicy Bypass -File \"C:\\Users\\Vitali_Kuzmenka\\.claude\\scripts\\play-notification-sound.ps1\""
           }
         ]
       }
     ]
   },
-  "alwaysThinkingEnabled": false,
-  "feedbackSurveyState": {
-    "lastShownTime": 1754062994695
-  }
+  "alwaysThinkingEnabled": true
 }
